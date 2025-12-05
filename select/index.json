@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "O - ロライズ",
+  "base_artist": "ビワハヤヒデ (CV. 近藤 唯)、エアシャカール (CV. 津田美波)、ナリタタイシン (CV. 渡部恵子)、シンボリクリスエス (CV. 春川芽生)、タニノギムレット (CV. 松岡美里)、シュガーライツ (CV. 石川由依)",
+  "createdAt": "2025-12-05T17:07:13.627345Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Randy Dandy-O",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Randy_Dandy-O_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sweet Child O' Mine",
+      "artist": "Guns N' Roses",
+      "has_synced": true,
+      "path": "select/02_Sweet_Child_O'_Mine_Guns_N'_Roses.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "O.N.E",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_O.N.E_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "C-O-U-N-T-R-Y",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/04_C-O-U-N-T-R-Y_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "C-O-U-N-T-R-Y (Album Version)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/05_C-O-U-N-T-R-Y_(Album_Version)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "D-I-V-O-R-C-E",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/06_D-I-V-O-R-C-E_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "D-I-V-O-R-C-E (Album Version)",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/07_D-I-V-O-R-C-E_(Album_Version)_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Divorce Me C.O.D.",
+      "artist": "Merle Travis",
+      "has_synced": false,
+      "path": "select/08_Divorce_Me_C.O.D._Merle_Travis.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "H.O.L.Y.",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/09_H.O.L.Y._Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "H.O.L.Y. - Acoustic",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/10_H.O.L.Y._-_Acoustic_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I.O.U.",
+      "artist": "Lee Greenwood",
+      "has_synced": true,
+      "path": "select/11_I.O.U._Lee_Greenwood.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I.O.U. (Album Version)",
+      "artist": "Lee Greenwood",
+      "has_synced": true,
+      "path": "select/12_I.O.U._(Album_Version)_Lee_Greenwood.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It's Five O' Clock Somewhere",
+      "artist": "Alan Jackson & Jimmy Buffet",
+      "has_synced": true,
+      "path": "select/13_It's_Five_O'_Clock_Somewhere_Alan_Jackson_&_Jimmy_Buffet.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "T-R-O-U-B-L-E",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/14_T-R-O-U-B-L-E_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "T-R-O-U-B-L-E (Remastered LP Version)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/15_T-R-O-U-B-L-E_(Remastered_LP_Version)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "O. Lover",
+      "artist": "Jason Mraz",
+      "has_synced": false,
+      "path": "select/16_O._Lover_Jason_Mraz.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "O - ロライズ",
+      "artist": "ビワハヤヒデ(近藤唯),エアシャカール(津田美波),ナリタタイシン(渡部恵子),シンボリクリスエス(春川芽生),タニノギムレット(松岡美里),シュガーライツ(石川由依)",
+      "has_synced": false,
+      "path": "select/pl_01_O_-_ロライズ_ビワハヤヒデ(近藤唯),エアシャカール(津田美波),ナリタタイシン(渡部恵子),シンボリクリスエス(春川芽生),タニノギムレット(松岡美里),シュガーライツ(石.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "O - ロライズ (Game Size)",
+      "artist": "ビワハヤヒデ(近藤唯),エアシャカール(津田美波),ナリタタイシン(渡部恵子),シンボリクリスエス(春川芽生),タニノギムレット(松岡美里),シュガーライツ(石川由依)",
+      "has_synced": false,
+      "path": "select/pl_02_O_-_ロライズ_(Game_Size)_ビワハヤヒデ(近藤唯),エアシャカール(津田美波),ナリタタイシン(渡部恵子),シンボリクリスエス(春川芽生),タニノギムレット(松岡美里),シュガーライツ(石.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "O - ロライズ",
+      "artist": "ビワハヤヒデ(近藤唯),エアシャカール(津田美波),ナリタタイシン(渡部恵子),シンボリクリスエス(春川芽生),タニノギムレット(松岡美里),シュガーライツ(石川由依)",
+      "has_synced": false,
+      "path": "select/pl_03_O_-_ロライズ_ビワハヤヒデ(近藤唯),エアシャカール(津田美波),ナリタタイシン(渡部恵子),シンボリクリスエス(春川芽生),タニノギムレット(松岡美里),シュガーライツ(石.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "O - ロライズ (Game Size)",
+      "artist": "ビワハヤヒデ(近藤唯),エアシャカール(津田美波),ナリタタイシン(渡部恵子),シンボリクリスエス(春川芽生),タニノギムレット(松岡美里),シュガーライツ(石川由依)",
+      "has_synced": false,
+      "path": "select/pl_04_O_-_ロライズ_(Game_Size)_ビワハヤヒデ(近藤唯),エアシャカール(津田美波),ナリタタイシン(渡部恵子),シンボリクリスエス(春川芽生),タニノギムレット(松岡美里),シュガーライツ(石.txt"
+    }
+  ]
+}
