@@ -1,0 +1,45 @@
+# ビワハヤヒデ (CV. 近藤 唯)、エアシャカール (CV. 津田美波)、ナリタタイシン (CV. 渡部恵子)、シンボリクリスエス (CV. 春川芽生)、タニノギムレット (CV. 松岡美里)、シュガーライツ (CV. 石川由依) – O - ロライズ
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+あの日 失ったもの
+あの痛みも温度も
+拾い集めた そしてゆこうと決めた
+カタチも到底ないもの
+それは途方もないほど
+無謀に見えた だけどさ だけどさ
+I'll be alright
+Somewhere in your eyes
+あの速度を今
+Always in your heart
+確かにあるから
+ウタエ o.o.o
+To the gate o.o.o
+3.2.1 "Dance"
+THE story of my own
+It's the story of my own
+あの日 拭った涙も
+あの叫びもエールも
+覚えてるから きっと歩んでこれた
+理屈じゃ当然ないもの
+私自身が想うほど
+希望が見えた だからさ だからさ
+I'll shine my light
+Once more, we run
+あの場所で今
+Someday, someday
+夢は叶うから
+ウタエ o.o.o
+To the gate o.o.o
+3.2.1 "Clap"
+THE story of my own
+It's the story of my own
+ずっと ずっと 求め続けた
+感覚 感触 私にあるから
+ウタエ o.o.o
+To the gate o.o.o
+3.2.1 "Dance"
+THE story of my own
+It's the story of my own
+```
